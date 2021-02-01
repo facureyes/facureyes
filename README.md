@@ -1,4 +1,4 @@
-# Hi, I'm Facundo Reyes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! I'm Facundo Reyes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Personal_Site-pending-orange?style=flat-square)](https://facundoreyes.dev)
 ## Electronics Engineer & Software Developer. 
 - 🔭 I’m currently working mostly with Ruby and Javascript at RWS Moravia. Besides that, I'm developing my personal website to use it as a portfolio.
