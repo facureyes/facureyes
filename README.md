@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Facundo Reyes. </h1>
 <h3 align="center"> Electronic Engineer & Full Stack Developer. </h3>
-<p align="center"><img width="200" src="https://user-images.githubusercontent.com/60470996/142437903-550262fe-2292-4703-b66f-65ac61f5ce03.png" /></p>
+<!-- <p align="center"><img width="200" src="https://user-images.githubusercontent.com/60470996/142437903-550262fe-2292-4703-b66f-65ac61f5ce03.png" /></p> -->
 <p align="center"><a href="https://facundoreyes.dev" target="_blank"><img src="https://img.shields.io/badge/Personal_Site-WIP-orange?style=flat-square" /></a></p>
 
 <br />
