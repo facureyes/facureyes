@@ -10,7 +10,7 @@
 <p align="center">
 <ul>
   <li> Coding from Argentina 🇦🇷 </li>
-  <li> Working at <a href="https://humandecode.com/">Human Decode</a> as a Full Stack developer 👨‍💻</li>
+  <li> Working at <a href="https://humandecode.com/" target="_blank">Human Decode</a> as a Full Stack developer 👨‍💻</li>
   <li> Developing my personal portfolio... updates coming soon! 😏 </li>
   <li> Learning new things every day! 🎯</li>
 </ul>
@@ -73,9 +73,9 @@
 <br />
 <h2 align="center"> 👇 Connect with me 👇 </h2>
 <p align="center">
-  <a href="https://facundoreyes.dev"><img src="https://img.shields.io/badge/Personal.Web-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
-  <a href="https://www.instagram.com/facareyes/"><img src="https://img.shields.io/badge/facareyes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:facundotomasreyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/facareyes"><img src="https://img.shields.io/badge/facureyes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/facundoreyes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facundoreyes.dev" target="_blank"><img src="https://img.shields.io/badge/Personal.Web-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+  <a href="https://www.instagram.com/facareyes/" target="_blank"><img src="https://img.shields.io/badge/facareyes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:facundotomasreyes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/facareyes" target="_blank"><img src="https://img.shields.io/badge/facureyes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/facundoreyes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
